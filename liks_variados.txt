@@ -1,0 +1,46 @@
+Sobre a certificação:
+  Overview:  
+    https://aws.amazon.com/certification/certified-data-engineer-associate/
+  .
+  Ementa da prova para certificação:
+    https://d1.awsstatic.com/training-and-certification/docs-data-engineer-associate/AWS-Certified-Data-Engineer-Associate_Exam-Guide.pdf
+
+  Trilhas/pathways/jornadas recomendadas pela AWS (Para quem está meio perdido, pode ser interessante seguir. Eu não segui linearmente, pois já sabia mais ou menos qual jornada queria): 
+    https://d1.awsstatic.com/training-and-certification/docs/AWS_certification_paths.pdf
+
+
+-----
+
+Simulados Free (fui fazendo até bater 80% ou mais de acertos antes de ir para os pagos):
+  Simulado Free AWS Skill Builder:
+    https://explore.skillbuilder.aws/learn/course/internal/view/elearning/16985/exam-prep-official-practice-question-set-aws-certified-data-engineer-associate-dea-c01-english
+  .
+  Simulado Free whizlabs:
+    https://www.whizlabs.com/learn/course/aws-certified-data-engineer-certification-exam/2841/quiz/64506/ft
+  .
+-----
+Cursos:
+  Udemy Curso pago:
+    https://www.udemy.com/course/aws-data-engineer/
+  *Nos primeiros acessos vai estar custando um milhão de dinheiros, coloca nos favoritos, espera baixar e compra qdo ficar no valor aceitavel.
+  .
+  Udemy Instrutores que funcionaram para mim:
+    https://www.udemy.com/user/frankkane/
+    https://www.udemy.com/user/andreiacono/
+  .
+  twitch (assisto só pontos que sinto necessidade)
+    https://www.twitch.tv/awstraininglive/video/2147070476
+-----
+Simulados pagos (comprei só quando já estava batendo com uns 80% ou mais de aprovação nos simulados gratis) :
+  whizlabs
+    https://www.whizlabs.com/learn/course/aws-certified-data-engineer-certification-exam/2841/quiz/64739/
+  .
+-----
+Laboratorios pagos whizlabs:
+    https://www.whizlabs.com/learn/course/aws-certified-data-engineer-certification-exam/2841/lab
+-----
+Outros links
+.
+Skillbuilder
+  saber quais cursos me inscrevi
+    https://explore.skillbuilder.aws/legacy/lms/index.php%3Fr%3DmyActivities/index%26tab%3Dcourses
