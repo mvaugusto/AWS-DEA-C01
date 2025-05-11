@@ -5,9 +5,9 @@ Sobre a certificação:
   Ementa da prova para certificação:
     https://d1.awsstatic.com/training-and-certification/docs-data-engineer-associate/AWS-Certified-Data-Engineer-Associate_Exam-Guide.pdf
 
-  Trilhas/pathways/jornadas recomendadas pela AWS (Para quem está meio perdido, pode ser interessante seguir. Eu não segui linearmente, pois já sabia mais ou menos qual jornada queria): 
+  Trilhas/pathways/jornadas recomendadas pela AWS 
+  (Para quem está meio perdido, pode ser interessante seguir. Eu não segui linearmente, pois já sabia mais ou menos qual jornada queria): 
     https://d1.awsstatic.com/training-and-certification/docs/AWS_certification_paths.pdf
-
 
 -----
 
@@ -19,8 +19,19 @@ Simulados Free (fui fazendo até bater 80% ou mais de acertos antes de ir para o
     https://www.whizlabs.com/learn/course/aws-certified-data-engineer-certification-exam/2841/quiz/64506/ft
   .
 -----
-Cursos:
-  Udemy Curso pago:
+Cursos free:
+  skillbuilder:
+    https://explore.skillbuilder.aws/learn/learning-plans/2195/standard-exam-prep-plan-aws-certified-data-engineer-associate-dea-c01
+  
+skillbuilder:
+    https://explore.skillbuilder.aws/learn/courses/19747/data-engineering-on-aws-foundations
+
+twitch (assisto só pontos que sinto necessidade)
+    https://www.twitch.tv/awstraininglive/video/2147070476
+-----
+
+Cursos pagos:
+  Udemy Curso:
     https://www.udemy.com/course/aws-data-engineer/
   *Nos primeiros acessos vai estar custando um milhão de dinheiros, coloca nos favoritos, espera baixar e compra qdo ficar no valor aceitavel.
   .
@@ -28,15 +39,14 @@ Cursos:
     https://www.udemy.com/user/frankkane/
     https://www.udemy.com/user/andreiacono/
   .
-  twitch (assisto só pontos que sinto necessidade)
-    https://www.twitch.tv/awstraininglive/video/2147070476
+
 -----
 Simulados pagos (comprei só quando já estava batendo com uns 80% ou mais de aprovação nos simulados gratis) :
   whizlabs
     https://www.whizlabs.com/learn/course/aws-certified-data-engineer-certification-exam/2841/quiz/64739/
   .
 -----
-Laboratorios pagos whizlabs:
+Laboratorios pagos whizlabs (recomendo pois uma conta aws pessoal pode ser diferente de uma conta aws customizada em corporações ):
     https://www.whizlabs.com/learn/course/aws-certified-data-engineer-certification-exam/2841/lab
 -----
 Outros links
