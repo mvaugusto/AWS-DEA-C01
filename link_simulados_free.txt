@@ -1,0 +1,7 @@
+Simulados:
+
+Skill Builder
+https://explore.skillbuilder.aws/learn/course/internal/view/elearning/16985/exam-prep-official-practice-question-set-aws-certified-data-engineer-associate-dea-c01-english
+
+whizlabs
+https://www.whizlabs.com/learn/course/aws-certified-data-engineer-certification-exam/2841/quiz/64506/ft
